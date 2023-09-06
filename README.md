@@ -5,3 +5,8 @@ Spotify is a music service and it provides it's API for development.
 We have used Spotify Api for creating a Spotify Clone with React JS, Styled Components using Spotify Api and Context API.
 
 Used 'Context Api' and 'useReducer Hook' for state management.
+
+## Links
+[Spotify API](https://developer.spotify.com/documentation/web-api)
+
+[Spotify App](https://developer.spotify.com/dashboard)
