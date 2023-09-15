@@ -16,39 +16,37 @@ Advanced features like **Skip To Previous API**, **Skip To Next API** can only b
 
 ## Screenshots:
 
-![Screen Shot 2023-09-06 at 11 55 23 PM](https://github.com/panditsamik/Spotify-Clone/assets/91545371/f7a913c6-ee83-46a0-ad72-86ef2edef837)
+![1](https://github.com/panditsamik/Spotify-Clone/assets/91545371/e7926fa9-68cd-4736-893a-d45c0c005b92)
 
 ---
 
-![SS - 5](https://github.com/panditsamik/Spotify-Clone/assets/91545371/0c3fba51-c889-484f-abdb-39ad7732411f)
+![2](https://github.com/panditsamik/Spotify-Clone/assets/91545371/27242a67-5771-4ae4-ac6b-dda9ef00de09)
 
 ---
 
-
-![Screen Shot 2023-09-08 at 8 48 52 PM](https://github.com/panditsamik/Spotify-Clone/assets/91545371/f291ea38-8f32-4353-b5d8-3f39fe399f20)
-
+![3](https://github.com/panditsamik/Spotify-Clone/assets/91545371/c8d1aa84-0998-482a-91e7-39bfc81f29c8)
 
 ---
 
-![SS - 1](https://github.com/panditsamik/Spotify-Clone/assets/91545371/ae5bf870-295c-475e-9e55-c578e214ae6e)
+![4](https://github.com/panditsamik/Spotify-Clone/assets/91545371/bee60926-f189-499a-a5f7-f690b4083494)
 
 ---
 
-![SS - 2](https://github.com/panditsamik/Spotify-Clone/assets/91545371/3d301d7c-6d8d-41dd-8cb4-dcc65406de49)
-
----
-![SS - 3](https://github.com/panditsamik/Spotify-Clone/assets/91545371/cc90f27a-1db2-4f18-a015-4cb192b618f7)
+![5](https://github.com/panditsamik/Spotify-Clone/assets/91545371/c010ff1c-6ce3-42ba-b2ad-ba8c8094385a)
 
 ---
 
-![SS - 4](https://github.com/panditsamik/Spotify-Clone/assets/91545371/ea0030b0-99ce-4ae4-ac23-bc01ec412ccc)
+![6](https://github.com/panditsamik/Spotify-Clone/assets/91545371/e66fde5f-f142-4854-839e-2aedebaf606c)
 
+---
+
+![7](https://github.com/panditsamik/Spotify-Clone/assets/91545371/311541cd-95f4-4614-ad77-2a9fb3249e7a)
 
 ---
 
 
 ## Videos:
 
-https://github.com/panditsamik/Spotify-Clone/assets/91545371/b6a7c9b3-cbf9-4ac7-b92a-cb2cea7b471d
+https://github.com/panditsamik/Spotify-Clone/assets/91545371/acff2bd6-99ee-4ae3-9f7e-2afaa46febb5
 
 ---
